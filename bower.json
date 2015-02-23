@@ -1,0 +1,15 @@
+{
+  "name": "assignment-14",
+  "version": "0.0.0",
+  "homepage": "http://j5beck.github.io/assignment-14",
+  "authors": [
+    "Jeff Beck <jeff.kitconcepts@gmail.com>"
+  ],
+  "description": "Photo Gallery",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "~3.0.0",
+    "jquery": "~2.1.3",
+    "underscore": "~1.7.0"
+  }
+}

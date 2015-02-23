@@ -1,0 +1,131 @@
+[{
+  "album": "Family",
+  "name": "Us",
+  "photo": "images/family1.jpg",
+  "photo_id": 1
+},{
+  "album": "Family",
+  "name": "Samantha",
+  "photo": "images/family_neice.jpg",
+  "photo_id": 2
+},{
+  "album": "Pets",
+  "name": "Emma",
+  "photo": "images/pets1.jpg",
+  "photo_id": 3
+},{
+  "album": "Pets",
+  "name": "Bella",
+  "photo": "images/pets2.jpg",
+  "photo_id": 4
+},{
+  "album": "Fishing",
+  "name": "Tournament",
+  "photo": "images/fishing1.jpg",
+  "photo_id": 5
+},{
+  "album": "Fishing",
+  "name": "Kissing the fish",
+  "photo": "images/fishing2.jpg",
+  "photo_id": 6
+},{
+  "album": "Army",
+  "name": "Back of Chinook",
+  "photo": "images/army.jpg",
+  "photo_id": 7
+},{
+  "album": "Army",
+  "name": "Flying by Castle",
+  "photo": "images/army2.jpg",
+  "photo_id": 8
+},{
+  "album": "Whatever",
+  "name": "Cows swimming",
+  "photo": "images/othercow.jpg",
+  "photo_id": 9
+},{
+  "album": "Whatever",
+  "name": "Funny logo",
+  "photo": "images/other1.jpg",
+  "photo_id": 10
+},{
+  "album": "Remodel",
+  "name": "Kitchen",
+  "photo": "images/remodel1.jpg",
+  "photo_id": 11
+},{
+  "album": "Remodel",
+  "name": "Kitchen",
+  "photo": "images/remodel2.jpg",
+  "photo_id": 12
+  },{
+  "album": "Remodel",
+  "name": "Kitchen Before",
+  "photo": "images/remodel.jpg",
+  "photo_id": 13
+  },{
+  "album": "Remodel",
+  "name": "Kitchen Before",
+  "photo": "images/remodel3-1.jpg",
+  "photo_id": 14
+  },{
+  "album": "Remodel",
+  "name": "Master Bath",
+  "photo": "images/remodel3.jpg",
+  "photo_id": 15
+  },{
+  "album": "Remodel",
+  "name": "Remodel Album",
+  "photo": "images/remodellogo.jpg",
+  "photo_id": 16
+  },{
+  "album": "Army",
+  "name": "Army Album",
+  "photo": "images/armylogo.jpg",
+  "photo_id": 17
+  },{
+  "album": "Army",
+  "name": "NVG's",
+  "photo": "images/army3.jpg",
+  "photo_id": 18
+  },{
+  "album": "Family",
+  "name": "Family Album",
+  "photo": "images/familylogo.jpg",
+  "photo_id": 19
+  },{
+  "album": "Fishing",
+  "name": "Fishing Album",
+  "photo": "images/fishinglogo.jpg",
+  "photo_id": 20
+  },{
+  "album": "Fishing",
+  "name": "blah",
+  "photo": "images/fishing3.jpg",
+  "photo_id": 21
+  },{
+  "album": "Pets",
+  "name": "Pets Album",
+  "photo": "images/petslogo.jpg",
+  "photo_id": 22
+  },{
+  "album": "Pets",
+  "name": "Walk on the Beach",
+  "photo": "images/pets3.jpg",
+  "photo_id": 23
+  },{
+  "album": "Whatever",
+  "name": "Whatever Album",
+  "photo": "images/whateverlogo.jpg",
+  "photo_id": 24
+  },{
+  "album": "Whatever",
+  "name": "something else",
+  "photo": "",
+  "photo_id": 25
+  },{
+  "album": "Family",
+  "name": "",
+  "photo": "images/family2.jpg",
+  "photo_id": 26
+}]
